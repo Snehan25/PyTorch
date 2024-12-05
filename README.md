@@ -1,2 +1,2 @@
 # Pytorch
-Notes I made while learning Pytorch
+This repo contains notes and code I wrote while learning Pytorch
